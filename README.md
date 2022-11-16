@@ -53,3 +53,15 @@ README_MD_EDU
 
 ### 8. 이미지 넣기
 ![가을](https://github.com/AJYEON19/README_MD_EDU/blob/main/doc/imgs/R.jpg "가을가을해")
+
+### 9. 글자 강조(Emphasis)
+**굵은 글씨**
+*이탈리체*
+~~취소선~~
+
+### 10. 표그리기
+|Header|Value|Description|  
+|:-------|:-------|-------:|
+|1|자바|웹 언어|
+|1|자바|웹 최강언어|
+|1|자바|웹 최강언어|
