@@ -50,3 +50,6 @@ README_MD_EDU
 
 ### 7. 하이퍼 링크
 [PCWK CAFE](https://cafe.daum.net/pcwk "설명문구")
+
+### 8. 이미지 넣기
+!
