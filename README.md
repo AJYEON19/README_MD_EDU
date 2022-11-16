@@ -52,4 +52,4 @@ README_MD_EDU
 [PCWK CAFE](https://cafe.daum.net/pcwk "설명문구")
 
 ### 8. 이미지 넣기
-!
+![가을](https://github.com/AJYEON19/README_MD_EDU/blob/main/doc/imgs/R.jpg "가을가을해")
